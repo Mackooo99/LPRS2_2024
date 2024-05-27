@@ -1,0 +1,16 @@
+ECU connector T94	Fun	Power	OBDII connector	Injection emu
+				
+89	CAN+ (J-2284) (ISO 15765-4)		6	
+66	CAN- (J-2284)(ISO 15765-4)		14	
+72	K-line		7	
+3	12V	12V		
+5	12V	12V	16	
+6	12V	12V		
+18	12V	12V	16	
+1	GND	GND	4	
+2	GND	GND	5	
+4	GND	GND		
+				
+				
+				
+EDC16U1 – read memory, read/write odometer, read immobiliser data: VIN, PIN, CS( component security), MAC;				
