@@ -16,3 +16,24 @@
 
 	- kw: Bosch EDC16  T94 pinout
 		- http://diagprof.com/ecu_tips_and_tricks/manufacturer-vag/ecudomain-pcm_powertrain_control_module/supplier-bosch/ecutt-edc16u1
+		
+		
+- Git repository:
+	-Crank and Can simulation:
+		- https://github.com/speeduino/Ardu-Stim
+		
+	- GUI Installation steps:
+		-$ git clone https://github.com/speeduino/Ardu-Stim.git
+		-$ cd Ardu-Stim/UI
+
+		-$ npm install electron-rebuild -g
+		-$ npm install
+		-$ npm start
+	- nvm version : v0.39.3
+	- npm version : v10.7.0
+	- node version: v20.14.0 (>= v18.0.0)
+	
+	- for napi library
+	- $node -p "require('node-addon-api')" 
+	
+
