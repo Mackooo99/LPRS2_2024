@@ -27,6 +27,23 @@ U ovom projektu povezujemo [PD60](https://vi.aliexpress.com/item/100500649315218
 
 2. Razvoj i testiranje: Za testiranje smo koristili git repozitorijum gde je razvijena [aplikacija](https://github.com/speeduino/Ardu-Stim) za generisanje crank and can signala
 
+   Pokretanje aplikacije zahteva instalirane:
+	- nvm version : v0.39.3
+	- npm version : v10.7.0
+	- node version: v20.14.0 (>= v18.0.0)
+ - Pokretanje i skidanje aplikacije aplikacije:
+   	```bash
+    git clone https://github.com/speeduino/Ardu-Stim.git
+    cd Ardu-Stim/UI
+    sudo npm install electron-rebuild -g
+    sudo npm install
+    npm start
+    ```
+    - u nekim slučajevima treba instalirati napi biblioteku
+         ```bash
+    	node -p "require('node-addon-api')" 
+    ```
+
 ### Doprinose
 
 Otvoreni smo za doprinose i sugestije.
