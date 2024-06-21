@@ -13,9 +13,9 @@ U ovom projektu povezujemo [PD60](https://vi.aliexpress.com/item/100500649315218
 ### Instalacija
 
 1. Preuzimanje koda: Clone-ujte ovaj repozitorijum na lokalni računar koristeći Git.
-	'''bash
-	git clone [ovaj link](https://github.com/Mackooo99/LPRS2_2024)
-	'''
+	    ```bash
+    git clone https://github.com/Mackooo99/LPRS2_2024
+    ```
 	
 
 3. Postavljanje: Povezivanje pd60 sa ecu-om, us pomoć dokumentacije pinout-a ecu-a i uputstva za korišćenje simulatora [pd60](http://en.hao-ok.com/DownloadDetail.aspx?Id=73)
