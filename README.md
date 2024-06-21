@@ -2,7 +2,10 @@
 
 ## PD60 Gasoline and Diesel Vehicle Computer Board Fuel Injection Ignition Simulator and Bosch EDC16U1
 
+
 U ovom projektu povezujemo [PD60](https://vi.aliexpress.com/item/1005006493152183.html?spm=a2g0o.order_list.order_list_main.85.63f61802seDDk8&gatewayAdapt=glo2vnm) sa ECU Bosch EDC16U1, olakšavajući razvoj i testiranje softverskih rešenja za automobilske aplikacije.
+
+Motor korišćenog ecu-a: AUDI A3 1.9 TDI 8V (BKC) 2004 - 2007
 
 ### Funkcionalnosti
 
